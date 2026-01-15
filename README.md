@@ -1,7 +1,7 @@
 # Gamepad - For Hackclub Blueprint Project
 A hackpad that can be used to play little mini games. I think it's a fun little thing to use to take a break.
 
-Request:
+**Request:**
 - Soldering Iron
 
 BOM:
